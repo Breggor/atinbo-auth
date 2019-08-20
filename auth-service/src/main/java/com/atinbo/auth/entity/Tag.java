@@ -34,5 +34,5 @@ public class Tag extends BaseEntity {
     private Long id;
 
     @Column(columnDefinition = "varchar(50) default null comment '标签名称'")
-    private String name;
+    private String name1;
 }
