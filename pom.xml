@@ -14,9 +14,9 @@
     </parent>
 
     <modules>
-        <module>auth-api</module>
+        <module>auth-client</module>
         <module>auth-service</module>
-        <module>auth-openapi</module>
+        <module>auth-core</module>
     </modules>
 
     <dependencyManagement>

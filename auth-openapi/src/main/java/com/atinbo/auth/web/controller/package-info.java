@@ -1,1 +1,0 @@
-package com.atinbo.auth.web.controller;
